@@ -1,4 +1,4 @@
-=====================================================================\
+===================================\
 string with inplace storage. [Test](https://godbolt.org/z/MvTbrxqo7)
 
 Compatibility
